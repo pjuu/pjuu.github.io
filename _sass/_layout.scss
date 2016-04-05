@@ -1,13 +1,40 @@
 /**
  * Site header
  */
+
+$pjuu-green: #9C0;
+$pjuu-dark-green: #680; 
+$white: #FFF; 
+
+html, body {
+    height: 100%;
+}
+
+.site-wrapper {
+    min-height: 100%;
+    margin-bottom: -140px;
+
+
+}
+
+.site-wrapper::after {
+    content: "";
+    display: block;
+}
+
+.site-footer, .site-wrapper::after {
+    height: 140px;
+}
+
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid $pjuu-green;
+    padding: 1em 0;
     min-height: 56px;
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    .logo {
+        margin: 0 auto;
+        width: 200px;
+    }
 }
 
 .site-title {
@@ -98,11 +125,21 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    background-color: $pjuu-dark-green; 
+
+    .wrapper {
+        padding: ($spacing-unit / 2) 0 0;
+    }
+
+    a {
+        color: $white; 
+        text-decoration: underline;
+    }
 }
 
+
 .footer-heading {
+    color: $white; 
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
 }
@@ -115,7 +152,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $white;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }

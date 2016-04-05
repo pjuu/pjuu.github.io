@@ -1,6 +1,9 @@
 /**
  * Reset some basic elements
  */
+$white: #FFF;
+
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -200,7 +203,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $white;
         }
     }
 }
