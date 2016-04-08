@@ -3,7 +3,7 @@ layout: post
 title:  "Un-spoken complexity of NoSQL"
 comments: true
 disqusid: 29f52fa5-508b-4ab7-8a69-5f5c629b403c 
-date:   2016-04-08 19:15:00 +0000
+date:   2016-04-08 12:00:00 +0000
 categories: pjuu nosql mongo choices 
 ---
 The first blog post I am going to write about is how choosing NoSQL on small projects brings a lot of extra baggage.
