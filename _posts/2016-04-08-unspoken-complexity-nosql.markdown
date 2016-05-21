@@ -8,9 +8,11 @@ categories: pjuu nosql mongo choices
 ---
 The first blog post I am going to write about is how choosing NoSQL on small projects brings a lot of extra baggage.
 
-```
-TLDR; Please think before using NoSQL. There may be great success stories and you may have had a bad SQL experience. That isn't SQL's fault though.
-```
+<br/>
+
+> _TLDR_; Please think before using NoSQL. There may be great success stories and you may have had a bad SQL experience. That isn't SQL's fault though.
+
+<br/>  
 
 When I started to write Pjuu I was working as a sys admin at a managed hosting company along with Ant (the other Pjuu admin).
 
