@@ -13,6 +13,7 @@ If you are a member of these sites an upvote/like would be much appreciated.
 - [Reddit](https://www.reddit.com): [https://www.reddit.com/r/Pjuu/](https://www.reddit.com/r/Pjuu/)
 - [Voat](https://voat.co): [https://voat.co/v/pjuu](https://voat.co/v/pjuu)
 - [Facebook](https://www.facebook.com/Pjuu-787858281284883/): [https://www.facebook.com/Pjuu-787858281284883/](https://www.facebook.com/Pjuu-787858281284883/)
+- [Twitter](https://twitter.com): [https://twitter.com/PjuuOfficial](https://twitter.com/PjuuOfficial)
 
 I would like to thank Pjuu user [@mukt](https://pjuu.com/mukt) for creating the Reddit and Voat pages.
 
