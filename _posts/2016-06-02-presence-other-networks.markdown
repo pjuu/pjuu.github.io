@@ -14,6 +14,8 @@ If you are a member of these sites an upvote/like would be much appreciated.
 - [Voat](https://voat.co): [https://voat.co/v/pjuu](https://voat.co/v/pjuu)
 - [Facebook](https://www.facebook.com/Pjuu-787858281284883/): [https://www.facebook.com/Pjuu-787858281284883/](https://www.facebook.com/Pjuu-787858281284883/)
 - [Twitter](https://twitter.com): [https://twitter.com/PjuuOfficial](https://twitter.com/PjuuOfficial)
+- [Gitter](https://gitter.im): [https://gitter.im/pjuu](https://gitter.im/pjuu)
+- [Freenode](https://freenode.net/): #pjuu
 
 I would like to thank Pjuu user [@mukt](https://pjuu.com/mukt) for creating the Reddit and Voat pages.
 
