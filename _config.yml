@@ -9,9 +9,9 @@
 title: Pjuu Blog 
 email: hello@pjuu.com
 description: > # this means to ignore newlines until "baseurl:"
-  The pjuu.com blog. Everything from architecture and engineering to design.
+  The pjuu.com blog. Everything from architecture and engineering to design and thoughts. But probably not a ton of it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.pjuu.com" # the base hostname & protocol for your site
+url: "http://pjuu.github.io" # the base hostname & protocol for your site
 main_url: "https://pjuu.com/"
 github_username:  pjuu
 
